@@ -1,0 +1,5 @@
+Extra requirements:
+- wikiapi
+- urbandict
+- youtube_dl
+- gTTS
