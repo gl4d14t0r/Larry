@@ -1,0 +1,12 @@
+TOKEN = 'MzI1ODI2NzAxOTgyNjk1NDI1.DCd5Ug.00I3XQy2jTsmU_Ms8TPxALX1QlI'
+
+LARRY_USER = 'Larry'
+LARRY_NUMBER = '4743'
+
+COMMAND_PREFIX = ','
+
+MODULES_PATH = '/home/cr1t1cal/Projects/Larry/modules'
+MULTIM_PATH = '/home/cr1t1cal/Projects/Larry/multim/'
+
+# 24513... is me
+MASTERS = ['254132516707893250', '138224483671474176']

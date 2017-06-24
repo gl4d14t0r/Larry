@@ -1,0 +1,9 @@
+misc.py:
+	ping
+	ask
+	whoisyourmaster
+info.py:
+	wiki
+	urbandict
+playback.py:
+	askvoice
